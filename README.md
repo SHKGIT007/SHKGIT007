@@ -169,28 +169,6 @@ const shakir = {
 
 ---
 
-## 💼 Professional Experience
-
-<div align="center">
-
-
-```mermaid
-%% Timeline of Career Growth
-graph TD
-    A[2019 🚀 <br/> Junior Developer] --> B[2021 ⚡ <br/> Backend Developer]
-    B --> C[2023 🌐 <br/> Full Stack Developer]
-    C --> D[2024 🏆 <br/> Senior Developer & Team Lead]
-
-    %% Node Colors
-    style A fill:#e1f5fe,stroke:#0288d1,stroke-width:2px,color:#01579b
-    style B fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#4a148c
-    style C fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#1b5e20
-    style D fill:#fff3e0,stroke:#f57c00,stroke-width:2px,color:#e65100
-
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
