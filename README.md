@@ -29,9 +29,9 @@ const shakir = {
     role: "Senior Full Stack Developer",
     company: "P&P Infotech",
     technologies: {
-        backEnd: ["Node.js", "Laravel", "CodeIgniter"],
+        backEnd: ["Node.js", "Laravel", "CodeIgniter","PHP"],
         frontEnd: ["React", "HTML5", "CSS3", "Bootstrap"],
-        database: ["MongoDB", "MySQL", "Redis"],
+        database: ["MongoDB", "MySQL","PostgreSQL" "Redis"],
         tools: ["Git", "Docker", "SharePoint", "OAuth"]
     },
     currentFocus: "Building Scalable Web Applications",
