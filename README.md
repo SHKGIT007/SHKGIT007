@@ -28,8 +28,6 @@
 const shakir = {
     role: "Senior Full Stack Developer",
     company: "P&P Infotech",
-    code: ["JavaScript", "PHP", "Python", "SQL"],
-    askMeAbout: ["Node.js", "React", "MongoDB", "System Design"],
     technologies: {
         backEnd: ["Node.js", "Laravel", "CodeIgniter"],
         frontEnd: ["React", "HTML5", "CSS3", "Bootstrap"],
@@ -66,9 +64,6 @@ const shakir = {
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
 
 ### Languages & Frameworks
 <img src="https://skillicons.dev/icons?i=js,nodejs,react,php,laravel,codeigniter,python,html,css,bootstrap&theme=dark" />
@@ -178,17 +173,20 @@ const shakir = {
 
 <div align="center">
 
+
 ```mermaid
+%% Timeline of Career Growth
 graph TD
-    A[2019 - Junior Developer] --> B[2021 - Backend Developer]
-    B --> C[2023 - Full Stack Developer]
-    C --> D[2024 - Senior Developer & Team Lead]
-    
-    style A fill:#e1f5fe
-    style B fill:#f3e5f5
-    style C fill:#e8f5e8
-    style D fill:#fff3e0
-```
+    A[2019 🚀 <br/> Junior Developer] --> B[2021 ⚡ <br/> Backend Developer]
+    B --> C[2023 🌐 <br/> Full Stack Developer]
+    C --> D[2024 🏆 <br/> Senior Developer & Team Lead]
+
+    %% Node Colors
+    style A fill:#e1f5fe,stroke:#0288d1,stroke-width:2px,color:#01579b
+    style B fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#4a148c
+    style C fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#1b5e20
+    style D fill:#fff3e0,stroke:#f57c00,stroke-width:2px,color:#e65100
+
 
 </div>
 
@@ -247,7 +245,4 @@ graph TD
 
 ---
 
-⭐️ From [Shakir Hussain](https://github.com/SHKGIT007) with ❤️
-
-
-https://tech-solver-toolkit.lovable.app
+⭐️ From [Shakir Hussain](https://github.com/SHKGIT007) with❤️
