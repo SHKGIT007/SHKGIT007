@@ -113,7 +113,7 @@ const shakir = {
 <td width="50%">
 
 ### 📈 Outbook Management (2024)
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d42b-4505-b9d4-f13644c6411e.gif"/>
+
 
 **Tech Stack:** Node.js | React | SharePoint  
 **Features:** OAuth, Role-based Access  
