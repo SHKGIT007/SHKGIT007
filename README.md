@@ -38,6 +38,21 @@ const shakir = {
 
 <br clear="right"/>
 
+## 🌟 Portfolio & Projects
+
+<div align="center">
+
+### 💼 **Explore My Work**
+
+<!-- Portfolio Main Button -->
+<a href="https://your-portfolio-url.com" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_VIEW_PORTFOLIO-FF6B6B?style=for-the-badge&logoColor=white&labelColor=FF6B6B&color=FF4757" alt="Portfolio"/>
+</a>
+
+<!-- Feature Buttons -->
+<br><br>
+</div>
+
 
 ## 🛠️ Tech Stack & Tools
 
