@@ -3,7 +3,7 @@
 <div align="center">
   
 <!-- Animated Header GIF -->
-<!<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Shakir%20Hussain&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Building%20Digital%20Solutions&descAlignY=51&descAlign=62"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Shakir%20Hussain&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Building%20Digital%20Solutions&descAlignY=51&descAlign=62"/>
 
 <!-- Typing Animation -->
 
