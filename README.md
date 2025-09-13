@@ -6,9 +6,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Shakir%20Hussain&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Building%20Digital%20Solutions&descAlignY=51&descAlign=62"/>
 
 <!-- Typing Animation -->
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=🚀%20MERN%20Stack%20Developer;💻%20Node.js%20%7C%20React.js%20%7C%20MongoDB;⚡%20Backend%20%26%20Frontend%20Expert;🔥%205%2B%20Years%20Experience;🌟%20Senior%20Developer%20%40%20P%26P%20Infotech;💡%20Building%20Scalable%20Solutions;🎯%20Let's%20Code%20Something%20Amazing!&font=Fira%20Code&center=true&width=700&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
-</a>
+
 
 <!-- Animated Coding GIF -->
 <img width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
