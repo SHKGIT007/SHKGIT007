@@ -39,8 +39,26 @@ const shakir = {
 <br clear="right"/>
 
 
+## 🛠️ Tech Stack & Tools
 
 
+<div align="center">
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=js,nodejs,react,php,laravel,codeigniter,python,html,css,bootstrap&theme=dark" />
+
+### Databases & Tools  
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,git,github,docker,vscode,postman&theme=dark" />
+
+</div>
+
+---
 
 
 ## 🚀 Featured Projects
